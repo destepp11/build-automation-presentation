@@ -1,3 +1,3 @@
-# Start JAMming with Wyam
+### Impress You Boss By Sitting On Your Ass
 
-_A static content toolkit for .NET developers._
+_Automated Builds and Deployments_
