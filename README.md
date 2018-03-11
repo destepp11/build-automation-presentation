@@ -1,6 +1,6 @@
 # Welcome to the wyam-jam-presentation repository.
 
-This repository hosts the content of my present about Wyam, a static toolkit for .NET developers. The presentation runs via `reveal.js` and the base of this repository is forked from it's repository:
+This repository hosts the content of my presentation about Wyam, a static toolkit for .NET developers. The presentation runs via `reveal.js` and the base of this repository is forked from it's repository:
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js) <a href="https://slides.com?ref=github"><img src="https://s3.amazonaws.com/static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
 
