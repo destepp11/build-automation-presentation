@@ -22,5 +22,3 @@ Dennis Eugene Stepp, Jr
 ![Twitch](images/socialIcons/twitch.png)
 [![Twitter](images/socialIcons/twitter.png)](https://twitter.com/destepp)
 [![Untapped](images/socialIcons/untapped.png)](https://untappd.com/user/destepp11)
-
-
