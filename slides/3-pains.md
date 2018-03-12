@@ -19,4 +19,8 @@
     <p class="fragment highlight-red fade-up">Too Much WIP</p>
     <p class="fragment current-visible">Dozens of Active Projects for a handful of developers.</p>
 </section>
+<section data-transition="fade-in slide-out">
+    <p class="fragment highlight-red fade-up">Too Much WIP</p>
+    <img src="images/slides/pains/ron-swanson.gif" alt="RonSwanson">
+</section>
 <section>
