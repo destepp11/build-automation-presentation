@@ -14,4 +14,3 @@
 <section data-transition="fade-in slide-out">
     <img src="images/slides/complex/boomhower.png" alt="Boomhower">
 </section>
-<section>

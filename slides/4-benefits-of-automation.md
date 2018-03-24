@@ -1,6 +1,6 @@
 ### Benefits of Automation
 <section data-transition="fade-in slide-out">
-    <p class="fragment current-visible">Removes human erros. No chance for fat-fingered deployments.</p>
+    <p class="fragment current-visible">Removes human errors. No chance for fat-fingered deployments.</p>
 </section>
 <section data-transition="fade-in slide-out">
     <p class="fragment current-visible">Repeatable and consistent process applicable to multiple environments.</p>
@@ -17,4 +17,3 @@
 <section data-transition="fade-in slide-out">
     <p class="fragment current-visible">More time for features and enhancements.</p>
 </section>
-<section>

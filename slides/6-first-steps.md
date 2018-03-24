@@ -21,4 +21,3 @@
 <section data-transition="fade-in slide-out">
     <p class="fragment current-visible">You make the best decisions in the morning before you're burnout from the day.</p>
 </section>
-<section>
