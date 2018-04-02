@@ -1,6 +1,6 @@
 ### Links
 
-Presentation: [https://github.com/destepp11/build-automation-presentation](https://github.com/destepp11/build-automation-presentation)
+Presentation: [https://destepp11.github.io/build-automation-presentation/](https://destepp11.github.io/build-automation-presentation/)
 
 Example Project: [https://github.com/destepp11/java-project-template](https://github.com/destepp11/java-project-template)
 

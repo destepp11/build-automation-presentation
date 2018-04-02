@@ -3,7 +3,7 @@
     <p class="fragment highlight-red fade-up">Production Fires</p>
 </section>
 <section data-transition="fade-in slide-out">
-        <p class="fragment fade-up">Unhappy product owners.</p>
+    <p class="fragment fade-up">Unhappy product owners.</p>
 </section>
 <section data-transition="fade-in slide-out">
     <p class="fragment fade-up">Unhappy management.</p>
