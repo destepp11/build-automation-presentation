@@ -52,7 +52,7 @@
     <p class="fragment current-visible">Lack of confidence in you.</p>
 </section>
 <section data-transition="fade-in slide-out">
-    <p class="fragment current-visible">Forgoten dependencies.</p>
+    <p class="fragment current-visible">Forgotten dependencies.</p>
 </section>
 <section data-transition="fade-in slide-out">
     <img src="images/slides/pains/forgot.gif" class="fragment current-visible" alt="Forgot">
