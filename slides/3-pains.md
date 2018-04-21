@@ -121,7 +121,7 @@
     <p class="fragment fade-up">Dozens of active projects for a handful of developers.</p>
 </section>
 <section data-transition="fade-in slide-out">
-    <img src="images/slides/pains/work.gif" class="fragment current-visible" alt="Work">
+    <img src="images/slides/pains/racoon.gif" class="fragment current-visible" alt="Work">
 </section>
 
 <section data-transition="fade-in slide-out">
