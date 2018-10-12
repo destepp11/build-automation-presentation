@@ -2,8 +2,6 @@ Dennis Eugene Stepp, Jr
 
 **Software Engineer**
 
-[![RSC](images/affiliations/rsc.png)](https://www.radiosystemscorporation.com/)
-
 [![UnibearStudio](images/affiliations/unibear.png)](http://unibearstudio.com/)
 
 [Blog](http://www.dennis-stepp.com/) - http://www.dennis-stepp.com/
